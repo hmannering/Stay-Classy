@@ -1,0 +1,23 @@
+body {
+font-family: Arial, Verdana, sans-serif;
+color: #42f4c5;
+padding:10px;
+}
+
+.magical_box {
+  border: 2px solid #665544;
+  padding:inherit;
+  background-color:#efefef;
+}
+
+.p {background-color: #42f47d;
+  color: #ffffff;
+}
+
+.potatoe {background-color: #f441ac;
+color: #ffffff;
+}
+
+.what {background-color:#ffffff;
+  color:#a2a3a5;
+}
